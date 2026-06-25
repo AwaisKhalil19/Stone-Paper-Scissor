@@ -27,14 +27,6 @@ stone-paper-scissors/
 └── README.md
 
 
-## 📸 Screenshot
-
-Add your project screenshot here:
-
-
-![Stone Paper Scissors Game](./screenshot.png)
-
-
 ## 🎯 How to Play
 
 1. Choose Stone, Paper, or Scissors.
@@ -51,7 +43,7 @@ Add your project screenshot here:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stone-paper-scissors.git
+git clone https://github.com/AwaisKhalil19/stone-paper-scissors.git
 ```
 
 2. Open the project folder:
